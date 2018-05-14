@@ -70,7 +70,7 @@ Caffeine的加强版，可以防止Mac的空闲休眠和合盖休眠。如果需
 
 ![Snappy1](https://ws3.sinaimg.cn/large/006tNc79gy1frb9jmafvkg30bo0251gl.gif)
 
-![Snappy2](https://cdn.sspai.com/2017/09/17/e16ee5837a3e03d8a7449dea44870a90.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+![Snappy2](https://ws1.sinaimg.cn/large/006tNc79gy1frb9owutvhj30v40oi42v.jpg)
 
 [App Store](https://itunes.apple.com/cn/app/snappyapp/id512617038?mt=12) [测评](https://sspai.com/post/40939)
 
