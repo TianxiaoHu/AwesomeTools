@@ -120,6 +120,8 @@ MacOS上的的workflow应用，熟悉基本操作之后可以极大提升效率�
 
 ### Vanilla
 
+评分：⭐️⭐️⭐️⭐️⭐️
+
 Vanilla是一个可以整理Mac状态栏的应用。有一些常用应用会驻留在状态栏上，随着后台应用逐渐变多，状态栏也会变的混乱。而Vanilla可以把状态栏上的图标“收起来”，强迫症必备。
 
 ![Vanilla](https://matthewpalmer.net/vanilla/vanilla-square-gif.gif)
@@ -132,9 +134,39 @@ Vanilla是一个可以整理Mac状态栏的应用。有一些常用应用会驻�
 
 ### CheatSheet
 
+评分：⭐️⭐️⭐️⭐️⭐️
+
+CheatSheet是一款可以快速查看当前程序快捷键的软件，只需长按住 ⌘-command 键就可以显示当前程序的快捷键列表。
+
+十分轻便，不会在dock中显示也不会在状态栏中显示。
+
+[官网](https://www.cheatsheetapp.com/CheatSheet/) [测评](https://www.appinn.com/cheatsheet/)
+
 ### The Unarchiver
 
+评分：⭐️⭐️⭐️⭐️⭐️
+
+MacOS下最好用的解压软件（没有之一）。所有解压格式通用，有效防止中文乱码，装机必备。
+
+[App Store](https://itunes.apple.com/cn/app/the-unarchiver/id425424353?mt=12)
+
 ### Writefull
+
+评分：⭐️⭐️⭐️⭐️
+
+（不给五星是因为我个人的使用频率太低了:sweat_smile:）
+
+写论文/technical report神器。Writefull 采用了 Google Books、Google Web、Google Scholar 和 Google News 这四个数据库作为数据源，提供：
+
+- 词频查询，可以方便地确认当前词汇是不是被广为接受的学术用法。
+- 根据语境查找空缺的单词，并给出每个单词相应的出现频率。
+- 翻译，释义及发音。
+
+![Writefull](https://ws4.sinaimg.cn/large/006tNc79gy1frbbmuym3tj30vm11mq9a.jpg)
+
+[官网](https://writefullapp.com/) [测评](http://www.sohu.com/a/159131394_490529)
+
+全平台通用（macOS、Chrome、Windows和Linux均可下载）。 
 
 ### iPic
 
