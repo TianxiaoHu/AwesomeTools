@@ -166,6 +166,15 @@ Vanilla是一个可以整理Mac状态栏的应用。有一些常用应用会驻�
 
 ### 阅读模式
 
+### Octotree
+A Must-have tool if you are using GitHub/Bitbucket.
+
+### TamperMonkey
+A Must-have extension to automate your browswer.
+
+### OneTab
+Just put all the tabs into one tab and save your RAM.
+
 ## Windows
 
 ### 桌面日历
