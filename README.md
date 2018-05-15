@@ -170,11 +170,88 @@ MacOS下最好用的解压软件（没有之一）。所有解压格式通用，
 
 ### iPic
 
+评分：⭐️⭐️⭐️⭐️⭐️
+
+一款清新便捷的图床应用，可以自动讲剪贴板中的图片上传到新浪图床并生成图片地址。在编辑需要大量插入图片的md文件时很有用，再也不用先把图片上传到GitHub/CSDN了。
+
+iPic默认上传新浪图床，也支持七牛云 、又拍云、阿里云 OSS 、腾讯云 COS 、Imgur 、Flickr 、Amazon S3（需要开通iPic Pro）。
+
+![](https://ws2.sinaimg.cn/large/006tNc79ly1frbsyaafjcj30cq0fiq4k.jpg)
+
+*目前iPic不支持删除已上传图片。*
+
+[App Store](https://itunes.apple.com/cn/app/id1101244278?mt=12) [测评](https://toolinbox.net/iPic/)
+
+iPic还可以和markdown写作神器Typora结合，[详细测评](https://sspai.com/post/36275)。
+
 ### Typora
+
+评分：⭐️⭐️⭐️⭐️⭐️ （又是一个想给六星的软件）
+
+Typora是一款markdown编辑器。和其他多如牛毛的编辑器不同，Typora颠覆了传统的“一边markdown，一边preview”的双栏格式，采取“所见即所得”的形式来渲染mardown文本。用户按照markdown语法输入之后，即可看到最终的效果。
+
+-  支持代码块的语法高亮。
+- 支持MathJax。
+- 对于表格、数学公式提供了相当方便的辅助。
+- 提供了导出 Markdown的功能（PDF，HTML，Word，OpenOffice，RTF，Epub，**LaTex**….）。
+- 多个主题可切换。
+- 完全可以当作md阅读器使用。
+
+![Typora](https://img.iplaysoft.com/wp-content/uploads/2016/typora/typora-gif.gif)
+
+> Markdown 本来就是追求简洁和优雅而生的产物，使用复杂的工具反而是相悖的。
+
+[官网](https://typora.io/) [测评](https://www.iplaysoft.com/typora.html)
+
+全平台通用（macOS、Windows和Linux均可下载）。 
 
 ### Marp
 
+评分：⭐️⭐️⭐️⭐️⭐️ 
+
+如果Typora已经无法满足你了，那么可以再来尝试一下Marp...
+
+Marp可以让人使用markdown语法来制作幻灯片，支持插入图片，代码高亮，MathJax，表格等所有markdown元素，很适合制作课程project的报告。
+
+内置的两款模板已经可以满足日常「简洁干净」审美需求了。如果依旧不满意，也可以通过自定义背景等方法来更改幻灯片的整体风格。
+
+![Marp](https://ws3.sinaimg.cn/large/006tNc79ly1frbt3q070cj31gm140th0.jpg)
+
+[官网](https://yhatt.github.io/marp/) [GitHub](https://github.com/yhatt/marp) [测评](https://www.jianshu.com/p/1bc454c75f9b)
+
+全平台通用（macOS、Windows和Linux均可下载）。 
+
+### Detexify
+
+评分：⭐️⭐️⭐️⭐️⭐️ 
+
+聊完了markdown，我们来聊聊latex。
+
+如果经常在latex中输入数学公式，又对于诸多数学符号的latex写法不甚熟悉，那么Detexify则是一款不必可少的小工具。
+
+在触摸板上写出要输入的数学符号，Detexify就可以自动匹配并给出对应的latex写法。
+
+![Detexify](https://ws3.sinaimg.cn/large/006tNc79ly1frbtxhjswej30v40k076r.jpg)
+
+[官网](http://detexify.kirelabs.org/classify.html) [测评](https://sspai.com/post/39249)
+
+对于Windows用户，可以选择在其官网使用web版。
+
 ### IINA
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+如果受够了MacOS自带的QuickTime Player和每次播放之前奇怪的转码，那就试试IINA吧。
+
+“致力成为macOS最强的开源视频播放器。”IINA的主界面与QuickTime Player如出一辙，但却拥有强大的性能和兼容性，可以支持流畅播放几乎所有主流视频格式，并且支持网络播放。
+
+IINA使用mpv作为播放核心，IINA享受到了mpv解码和图像方面的所有优点，比起同类其他一些播放器画质有着显著提高。
+
+同样支持一些快捷编辑操作。
+
+![IINA](https://img.iplaysoft.com/wp-content/uploads/2017/iina/iina_video_setting_2x.jpg)
+
+[官网](https://lhc70000.github.io/iina/) [GitHub](https://github.com/lhc70000/iina) [测评](https://www.iplaysoft.com/iina.html)
 
 ## iOS(iPhone&iPad)
 
@@ -202,7 +279,7 @@ MacOS下最好用的解压软件（没有之一）。所有解压格式通用，
 A Must-have tool if you are using GitHub/Bitbucket.
 
 ### TamperMonkey
-A Must-have extension to automate your browswer.
+A Must-have extension to automate your browser.
 
 ### OneTab
 Just put all the tabs into one tab and save your RAM.
