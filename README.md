@@ -6,8 +6,6 @@
 
 :tada:欢迎pull request。**Awesome tools make life better.**
 
-[TOC]
-
 ## MacOS
 
 ### Pastebot
