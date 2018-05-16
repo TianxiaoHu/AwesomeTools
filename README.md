@@ -261,7 +261,7 @@ IINA使用mpv作为播放核心，IINA享受到了mpv解码和图像方面的所
 
 Timy是一款可以在 iOS 通知中心中显示农历、世界时钟和系统日历事件的应用，整个应用十分轻巧，适合对随时查看日历有需求的iOS使用者。
 
-![Timy](https://ws2.sinaimg.cn/large/006tNc79ly1frdef5ra94j30n21ccwjg.jpg)
+![Timy](https://ws1.sinaimg.cn/large/006tNc79gy1frdlvaepfej30n21ccq7t.jpg)
 
 [App Store](https://itunes.apple.com/cn/app/timy-%E5%B0%8F%E5%8E%86%E5%85%8D%E8%B4%B9%E7%89%88/id982983957) [测评](https://www.appinn.com/timy-for-ios/)
 
@@ -368,9 +368,23 @@ Just put all the tabs into one tab and save your RAM.
 
 评分：⭐️⭐️⭐️⭐️⭐️
 
+桌面日历可以让windows用户在桌面上一目了然地看到日程，双击桌面上的格子就可以编辑当日的todo，非常适合拖延症患者。同时软件简洁轻量且永久免费。
+
+（如果有Mac版请pull request…当初从windows切换到MacOS的时候最放不下的软件就是这款了。）
+
+![image-20180516233010036](https://ws4.sinaimg.cn/large/006tNc79gy1frdlmqz7mfj31i60xmguz.jpg)
+
+[官网](http://chs.desktopcal.com/chs/)
+
 ### everything
 
 评分：⭐️⭐️⭐️⭐️⭐️
+
+windows下的又一神器，再也不用忍受windows文件管理器自带的复杂而漫长的“搜索”了。可以简单快捷地搜索到电脑上的所有文件，基本上可以说是秒出，包括刚刚被添加的文件。
+
+至于原理似乎和windows下的磁盘格式有关…或许有大神可以来解释一下？
+
+[官网](http://www.voidtools.com/) [测评](https://www.appinn.com/everything-1-3-beta/)
 
 ## Useful Websites
 
