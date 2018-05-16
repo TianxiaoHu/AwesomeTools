@@ -257,23 +257,73 @@ IINA使用mpv作为播放核心，IINA享受到了mpv解码和图像方面的所
 
 ### Timy
 
+评分：⭐️⭐️⭐️⭐️
+
+Timy是一款可以在 iOS 通知中心中显示农历、世界时钟和系统日历事件的应用，整个应用十分轻巧，适合对随时查看日历有需求的iOS使用者。
+
+![Timy](https://ws2.sinaimg.cn/large/006tNc79ly1frdef5ra94j30n21ccwjg.jpg)
+
+[App Store](https://itunes.apple.com/cn/app/timy-%E5%B0%8F%E5%8E%86%E5%85%8D%E8%B4%B9%E7%89%88/id982983957) [测评](https://www.appinn.com/timy-for-ios/)
+
 ### Background
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+Background是一款壁纸软件，设计极其简洁，下滑查看其他壁纸，长按保存。
+
+![background](https://ws3.sinaimg.cn/large/006tNc79ly1frdef6g84dj30n21ccgrj.jpg)
+
+[App Store](https://itunes.apple.com/cn/app/background-beautiful-photos/id1171036231?mt=8)
 
 ### Source
 
-### Offline
+评分：⭐️⭐️⭐️⭐️⭐️
+
+iOS平台上的git client，支持语法高亮，可以连接GitHub，Bitbucket和Gitlab，日常commit, pull, push, diff不在话下。
+
+如果不要求iPad上有调试环境的话，理论上搭配iPad蓝牙键盘可以随时随地远程工作...
+
+大概搭配iPad pro会更爽？
+
+![source1](https://ws4.sinaimg.cn/large/006tNc79ly1frdej5drlaj30dc0owdh3.jpg)
+
+![source2](https://ws3.sinaimg.cn/large/006tNc79ly1frdej5s0j6j30nk0xcq7e.jpg)
+
+[官网](https://source.ianmcdowell.net/)
+
+### Dash
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+Dash提供了离线API查询和snippet代码管理功能，常用的语言/库/工具基本都有收录。把文档离线下来在没有网的地方，随便刷刷API和语法陶冶陶冶情操也是极好的。
+
+![dash](https://ws1.sinaimg.cn/large/006tNc79ly1frdeqzsrraj31kw16ote3.jpg)
+
+对于程序员来说更实用的应该是MacOS版本的Dash，提供与Xcode，Vim，Emacs，Sublime及Jetbrains全家桶的整合，如果经常查阅API又不想沉迷Google，也许可以试试Dash。
+
+[官网](https://kapeli.com/dash)
 
 ### Price Tag
 
-### Dash
+评分：⭐️⭐️⭐️⭐️
+
+授人以鱼不如授人以渔。App Store上每天会有不少的应用限免，也会有不少的应用的价格上下波动。Price Tag可以查询心仪app的价格波动来让你决定什么时候入手。 同时也会有每日的限免应用汇总，很方便探索新的有趣应用。
+
+[App Store](https://itunes.apple.com/cn/app/price-tag-another-way-to-screen/id1166819590?mt=8) [测评](http://www.apprcn.com/price-tag.html)
 
 ## Chrome Extensions
 
 ### AdBlock
 
+评分：⭐️⭐️⭐️⭐️⭐️
+
 ### Momentum
 
+评分：⭐️⭐️⭐️⭐️⭐️
+
 ### 阅读模式
+
+评分：⭐️⭐️⭐️⭐️⭐️
 
 ### Octotree
 A Must-have tool if you are using GitHub/Bitbucket.
@@ -288,7 +338,11 @@ Just put all the tabs into one tab and save your RAM.
 
 ### 桌面日历
 
+评分：⭐️⭐️⭐️⭐️⭐️
+
 ### everything
+
+评分：⭐️⭐️⭐️⭐️⭐️
 
 ## Useful Websites
 
