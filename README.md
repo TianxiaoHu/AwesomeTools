@@ -313,17 +313,45 @@ Dash提供了离线API查询和snippet代码管理功能，常用的语言/库/�
 
 ## Chrome Extensions
 
+**Chrome浏览器插件直接在Chrome拓展中即可安装，故不额外列出安装方法。**
+
 ### AdBlock
 
 评分：⭐️⭐️⭐️⭐️⭐️
+
+没什么多说的，简单粗暴地拦截页面中的广告，Chrome必备插件。
 
 ### Momentum
 
 评分：⭐️⭐️⭐️⭐️⭐️
 
+颜值党最爱。在打开新的标签页时，默认会打开一个Momentum标签页。标签页上可以根据自己的喜好来定制显示，如时间、天气、今日箴言等。升级到pro版本后可以享受更丰富的功能，如首页倒计时、和todo应用的整合、自定义主题和字体等。
+
+Momentum的背景图源质量真是太高了…有兴趣的人可以搜索一下如何爬出背景图，这里就不多介绍了。
+
+![image-20180516194706957](https://ws4.sinaimg.cn/large/006tNc79ly1frdf6ie93xj31kw0w1x6r.jpg)
+
 ### 阅读模式
 
 评分：⭐️⭐️⭐️⭐️⭐️
+
+实现了Safari浏览器中的“阅读模式”的Chrome插件，能够屏蔽掉网页中的多余信息和图片，只保留核心信息，极大减少了浏览网页时无关信息的干扰。
+
+对比图：
+
+![image-20180516194947959](https://ws4.sinaimg.cn/large/006tNc79gy1frdf9l2mxkj31kw0w1k5r.jpg)
+
+![image-20180516195002756](https://ws1.sinaimg.cn/large/006tNc79gy1frdf9m1j7cj31kw0w1ao8.jpg)
+
+### Vimium
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+vim党的挚爱...像使用vim一样使用浏览器，不需要用鼠标切换tab和滚轮上下滑动网页了。
+
+![image-20180516195406932](https://ws1.sinaimg.cn/large/006tNc79ly1frdfdrpdhij319i0iigqw.jpg)
+
+[GitHub主页](https://vimium.github.io/)
 
 ### Octotree
 A Must-have tool if you are using GitHub/Bitbucket.
