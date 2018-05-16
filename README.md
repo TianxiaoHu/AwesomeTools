@@ -261,7 +261,7 @@ IINA使用mpv作为播放核心，IINA享受到了mpv解码和图像方面的所
 
 Timy是一款可以在 iOS 通知中心中显示农历、世界时钟和系统日历事件的应用，整个应用十分轻巧，适合对随时查看日历有需求的iOS使用者。
 
-![Timy](https://ws1.sinaimg.cn/large/006tNc79gy1frdlvaepfej30n21ccq7t.jpg)
+![1_gaitubao_com_289x606](https://ws3.sinaimg.cn/large/006tNc79gy1frdm6f6e8hj30810gugmb.jpg)
 
 [App Store](https://itunes.apple.com/cn/app/timy-%E5%B0%8F%E5%8E%86%E5%85%8D%E8%B4%B9%E7%89%88/id982983957) [测评](https://www.appinn.com/timy-for-ios/)
 
@@ -271,7 +271,7 @@ Timy是一款可以在 iOS 通知中心中显示农历、世界时钟和系统�
 
 Background是一款壁纸软件，设计极其简洁，下滑查看其他壁纸，长按保存。
 
-![background](https://ws3.sinaimg.cn/large/006tNc79ly1frdef6g84dj30n21ccgrj.jpg)
+![2_gaitubao_com_321x672](https://ws2.sinaimg.cn/large/006tNc79gy1frdm65bhdhj308x0ioaax.jpg)
 
 [App Store](https://itunes.apple.com/cn/app/background-beautiful-photos/id1171036231?mt=8)
 
