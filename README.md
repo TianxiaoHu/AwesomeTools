@@ -388,4 +388,65 @@ windows下的又一神器，再也不用忍受windows文件管理器自带的复
 
 ## Useful Websites
 
-TBC.
+### http://www.runoob.com
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+简单粗暴，一天速成任何语言。
+
+### https://www.flaticon.com
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+一个免费提供高清icon的网站…在选择适合的icon之后可以自由调节颜色和图片尺寸，SVG格式无畏放缩，告别搜图。
+
+### http://www.xiaohudie.net/RGB.html
+
+评分：⭐️⭐️⭐️⭐️
+
+在线取色器…CSS工程师的福音。
+
+### https://cli.im
+
+评分：⭐️⭐️⭐️⭐️
+
+快速生成二维码的网站…支持活码和死码。
+
+### http://ondras.zarovi.cz/sql/demo
+
+评分：⭐️⭐️⭐️⭐️
+
+一款在线SQL designer。可以很方便的可视化数据组织，支持导入/导出。
+
+### http://wallpaperswide.com
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+高清壁纸合集，提供提供不同尺寸不同比例版本下载，部分高清图片可下载4K大图。
+
+唯一的缺点可能是不科学上网时有点卡...
+
+### https://smallpdf.com
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+办公PDF全家桶，打开网站即可为所欲为。网页版限制每小时最多两次操作，足够日常使用，如果是PDF编辑重度用户，可以付费购买desktop版。
+
+功能一览：
+
+![image-20180528103524458](https://ws3.sinaimg.cn/large/006tKfTcly1frquo7x7nxj31kw0kudjb.jpg)
+
+### https://www.jiumodiary.com
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+鸠摩图书搜索引擎，集成了各大电子书来源（百度盘/新浪盘/etc）。绝大多数电子书可以一键下载，如果鸠摩上搜不到…那可以直接打开当当网了。
+
+![image-20180528103845709](https://ws3.sinaimg.cn/large/006tKfTcly1frqurnvcr0j31kw0ron5g.jpg)
+
+### https://keepvid.com
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+一键下载YouTube视频。支持不同分辨率（1080P需要付费），可以单独下载图像/音频/挂载字幕。
+
