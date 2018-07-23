@@ -450,8 +450,17 @@ windows下的又一神器，再也不用忍受windows文件管理器自带的复
 
 一键下载YouTube视频。支持不同分辨率（1080P需要付费），可以单独下载图像/音频/挂载字幕。
 
+**20180715 UPDATE：网页版下载YouTube视频的通道似乎已经由于YouTube官方反对而关闭了，如果有其他类似可以下载YouTube视频的网站欢迎pull request。**
+
 ### https://www.processon.com
 
 评分：⭐️⭐️⭐️⭐️
 
 在线画各种图（流程图、思维导图、原型图、UML、网络拓扑图...），简易Visio替代品。
+
+### https://fsymbols.com/generators/smallcaps
+
+评分：⭐️⭐️⭐️⭐️
+
+快速转换[smallcaps](https://en.wikipedia.org/wiki/Small_caps)的Unicode字符。
+
