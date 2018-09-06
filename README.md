@@ -311,6 +311,16 @@ Dash提供了离线API查询和snippet代码管理功能，常用的语言/库/�
 
 [App Store](https://itunes.apple.com/cn/app/price-tag-another-way-to-screen/id1166819590?mt=8) [测评](http://www.apprcn.com/price-tag.html)
 
+### TranSocks
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+提供国内VPN，可以让留学生们一键回国听歌。
+
+在iOS上体验良好，似乎也推出了mac版（但似乎需要收费），有兴趣的小伙伴可以测试一下mac版体验。
+
+[官网](https://www.transocks.com/)
+
 ## Chrome Extensions
 
 **Chrome浏览器插件直接在Chrome拓展中即可安装，故不额外列出安装方法。**
@@ -361,6 +371,18 @@ A Must-have extension to automate your browser.
 
 ### OneTab
 Just put all the tabs into one tab and save your RAM.
+
+### Unblock Youku
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+翻墙回国Chrome插件，功能同iOS版TranSocks。
+
+### Streak for Gmail
+
+评分：⭐️⭐️⭐️⭐️
+
+可以追踪邮件是否被对方查看的chrome插件，如果对方（或自己）打开邮件会自动弹出有人阅读过该邮件的提示。
 
 ## Windows
 
@@ -463,4 +485,12 @@ windows下的又一神器，再也不用忍受windows文件管理器自带的复
 评分：⭐️⭐️⭐️⭐️
 
 快速转换[smallcaps](https://en.wikipedia.org/wiki/Small_caps)的Unicode字符。
+
+### https://www.tablesgenerator.com
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+方便快捷的创建latex格式的表格，只需要像excel一样填进去点generate就可以了，latex刚需党福音。
+
+![image-20180906141338508](https://ws2.sinaimg.cn/large/006tNbRwly1fv0iksx0m9j31go0u8grb.jpg)
 
