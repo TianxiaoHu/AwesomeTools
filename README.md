@@ -384,6 +384,14 @@ Just put all the tabs into one tab and save your RAM.
 
 可以追踪邮件是否被对方查看的chrome插件，如果对方（或自己）打开邮件会自动弹出有人阅读过该邮件的提示。
 
+### CamelCamelCamel/The Camelizer
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+一个可以追踪亚马逊上物品价格变动的插件，分亚马逊自营，第三方，二手三种价格可以追踪。还可以自定义该商品的心理价格，等到降至心理价格后Camelizer会自动发邮件通知你该下手了。
+
+![image-20180908131309137](https://ws4.sinaimg.cn/large/0069RVTdly1fv2s2ikux0j30hl0fm776.jpg)
+
 ## Windows
 
 ### 桌面日历
