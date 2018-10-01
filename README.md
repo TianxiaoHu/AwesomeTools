@@ -253,6 +253,14 @@ IINA使用mpv作为播放核心，IINA享受到了mpv解码和图像方面的所
 
 [官网](https://lhc70000.github.io/iina/) [GitHub](https://github.com/lhc70000/iina) [测评](https://www.iplaysoft.com/iina.html)
 
+### Pocket
+
+评分：⭐️⭐️⭐️⭐️
+
+第三方“阅读列表”APP，可以把未读完的网页离线下来方便以后阅读。跨平台，具有macOS/iOS/Android/Chrome插件，设备之间自动同步，用Chrome的用户可以考虑，上下班通勤消磨时间好助手。
+
+[官网](https://getpocket.com/)
+
 ## iOS(iPhone&iPad)
 
 ### Timy
