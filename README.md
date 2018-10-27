@@ -261,6 +261,16 @@ IINA使用mpv作为播放核心，IINA享受到了mpv解码和图像方面的所
 
 [官网](https://getpocket.com/)
 
+### vnote
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+支持markdown的笔记软件，可以按照文件夹导入/索引。适合喜欢用markdown做笔记又找不到合适的笔记管理软件的用户，可以直接配合云盘实现同步。
+
+[GitHub](https://github.com/tamlok/vnote)
+
+注：因为是QT开发，所以全平台通用。
+
 ## iOS(iPhone&iPad)
 
 ### Timy
