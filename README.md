@@ -520,3 +520,29 @@ windows下的又一神器，再也不用忍受windows文件管理器自带的复
 
 ![image-20180906141338508](https://ws2.sinaimg.cn/large/006tNbRwly1fv0iksx0m9j31go0u8grb.jpg)
 
+## Terminal
+### Git History
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+快速浏览并回放Git Repo下单个文件历史。极适合开会时分享项目开发经历，也适合无聊时回忆峥嵘岁月。
+命令行离线版本：
+![](https://user-images.githubusercontent.com/1911623/52544866-51102b00-2d92-11e9-9d9a-323470c1b0af.gif)
+安装和使用（依赖于[npm](https://www.npmjs.com/)）：
+
+```
+$ npm install -g git-file-history
+$ git-file-history path/to/file.ext
+```
+
+同时提供非常好用的在线版本，目前支持GitHub，未来会支持GitLab和Bitbucket
+
+> Just replace github.com with github.githistory.xyz in any file url!
+
+![](https://user-images.githubusercontent.com/1911623/52460615-f3899d80-2b49-11e9-8c21-06af4097a527.gif)
+
+项目GitHub链接：https://github.com/pomber/git-history
+
+项目官网：https://githistory.xyz/
+
+Cons：在线版本用于私有Repo时，需要GitHub OAuth，默认取得对当前账户所有Repo的访问权限，会有泄漏隐私的危险。（所以 prefer 命令行离线版本）。
