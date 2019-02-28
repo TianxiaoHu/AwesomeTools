@@ -263,13 +263,25 @@ IINA使用mpv作为播放核心，IINA享受到了mpv解码和图像方面的所
 
 ### vnote
 
-评分：⭐️⭐️⭐️⭐️⭐️
+评分：⭐️⭐️⭐️⭐️
 
 支持markdown的笔记软件，可以按照文件夹导入/索引。适合喜欢用markdown做笔记又找不到合适的笔记管理软件的用户，可以直接配合云盘实现同步。
+
+缺点是UI有待改进。。。
 
 [GitHub](https://github.com/tamlok/vnote)
 
 注：因为是QT开发，所以全平台通用。
+
+###Ulysses
+
+评分：⭐️⭐️⭐️⭐️
+
+markdown笔记软件，UI简洁美观，三栏式显示目录，支持自定义格式，导出PDF/word/HTML等。可以一键发布wordpress，在macOS/iOS设备上借助iCloud同步，也支持dropbox/google drive同步，可以显示本机文件夹（git repo）。一款相对理想的markdown笔记管理软件。
+
+缺点是不支持多人协作，以及不跨平台，没有read mode，需要订阅（有student discount）。
+
+![image-20190228145435701](https://ws1.sinaimg.cn/large/006tKfTcly1g0mwxrx64jj31bu0u0ayf.jpg)
 
 ## iOS(iPhone&iPad)
 
@@ -409,6 +421,32 @@ Just put all the tabs into one tab and save your RAM.
 一个可以追踪亚马逊上物品价格变动的插件，分亚马逊自营，第三方，二手三种价格可以追踪。还可以自定义该商品的心理价格，等到降至心理价格后Camelizer会自动发邮件通知你该下手了。
 
 ![image-20180908131309137](https://ws4.sinaimg.cn/large/0069RVTdly1fv2s2ikux0j30hl0fm776.jpg)
+
+### Keepa
+
+评分：⭐️⭐️⭐️⭐️
+
+同样是追踪Amazon商品价格的插件，功能类似CamelCamelCamel。但是是内嵌在网页里的，看起来更一目了然。
+
+缺点是似乎不能添加订阅（也有可能是暂时没有发现）。
+
+### Grammarly
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+自动检测当前输入英文语法，并提供修改意见，适合写邮件或者评论时用来检查typo和小的语法错误。
+
+![image-20190228144559017](https://ws2.sinaimg.cn/large/006tKfTcly1g0mwovyjptj31ju0u0na1.jpg)
+
+### Dark Mode
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+配合macOS的night mode，将chrome网页转成黑色背景。
+
+![image-20190228144900088](https://ws4.sinaimg.cn/large/006tKfTcly1g0mwrycsktj310k0ls75h.jpg)
+
+![image-20190228144748797](https://ws1.sinaimg.cn/large/006tKfTcly1g0mwqpef9vj30y40j6t9p.jpg)
 
 ## Windows
 
