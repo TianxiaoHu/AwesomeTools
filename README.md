@@ -283,6 +283,18 @@ markdown笔记软件，UI简洁美观，三栏式显示目录，支持自定义�
 
 ![image-20190228145435701](https://ws1.sinaimg.cn/large/006tKfTcly1g0mwxrx64jj31bu0u0ayf.jpg)
 
+###Magnet
+
+评分：⭐️⭐️⭐️⭐️
+
+mac上的窗口管理软件，可以快速的将当前活动窗口切换至屏幕左1/2、右1/2以及其他显示屏，适合写综述或者查找资料时的快速分屏。
+
+![image-20190301183713012](https://ws1.sinaimg.cn/large/006tKfTcly1g0o8zs264zj30by0sinff.jpg)
+
+需要在Settings -> Security & Privacy -> Privacy -> Accessibility中授予访问权限。
+
+**macOS mojave中有bug导致Accessibility free不能添加新app的解决方法：https://discussions.apple.com/thread/8568392**
+
 ## iOS(iPhone&iPad)
 
 ### Timy
