@@ -295,6 +295,16 @@ mac上的窗口管理软件，可以快速的将当前活动窗口切换至屏�
 
 **macOS mojave中有bug导致Accessibility free不能添加新app的解决方法：https://discussions.apple.com/thread/8568392**
 
+### Scroll Reverser
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+如果用mac的时候外接蓝牙鼠标，会发现mac鼠标滚轮的滑动方向和触摸板是相反的，和windows系统的操作也是相反的。mac在设置中可以勾选滚轮的"自然模式"，但是勾选后触摸板左右滑动切换桌面的手势也会反过来。对此可以用Scroll Reverser来将鼠标滚轮手动反向：
+
+![image-20190324162903651](https://ws1.sinaimg.cn/large/006tKfTcgy1g1dysp360oj30l40d0myw.jpg)
+
+[测评](https://sspai.com/post/40596) [下载](https://pilotmoon.com/scrollreverser/)
+
 ## iOS(iPhone&iPad)
 
 ### Timy
