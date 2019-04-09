@@ -1,4 +1,4 @@
-# AwesomeTools
+AwesomeTools
 
 :tada:这里记录了软件收集控在生活/工作中觉得比较有趣/有用的软件及插件。
 
@@ -304,6 +304,26 @@ mac上的窗口管理软件，可以快速的将当前活动窗口切换至屏�
 ![image-20190324162903651](https://ws1.sinaimg.cn/large/006tKfTcgy1g1dysp360oj30l40d0myw.jpg)
 
 [测评](https://sspai.com/post/40596) [下载](https://pilotmoon.com/scrollreverser/)
+
+### Airfoil
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+简而言之，Airfoil是一款"音频管理"软件，支持macOS(windows)，iOS及蓝牙之间的相互连接。使用Airfoil配合Airfoil Satellite，可以将mac的音频在(多个)其他设备的扬声器播放，前提条件是蓝牙已连接/设备处于同一局域网下。
+
+- 可选同步的音源：如系统内置音源，内置麦克风，或者是选择 iTunes，Safari，Spotify，QuickTime 这类独立应用程序作为音源。
+
+- 可以在mac端调节其他扬声器大小。
+
+- 配合airplay，可以实现将iPhone上的音频反向同步至mac，再同步到其他扬声器。
+
+- 可以从扬声器端远程控制音乐的播放情况，实现躺在床上切歌。
+
+  ![Airfoil iOS](https://ws4.sinaimg.cn/large/006tNc79ly1g1w973hs6lj31dc0soacb.jpg)
+
+官方定价29刀，如果一直使用trial版本会在传输的音频中加入随机噪音。木耳不仔细听听不出来区别，发烧友们可以考虑购买解锁版本。
+
+[测评](https://www.waerfa.com/airfoil-5-review) [官网](https://rogueamoeba.com/airfoil/mac/buy.php)
 
 ## iOS(iPhone&iPad)
 
