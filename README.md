@@ -325,6 +325,20 @@ mac上的窗口管理软件，可以快速的将当前活动窗口切换至屏�
 
 [测评](https://www.waerfa.com/airfoil-5-review) [官网](https://rogueamoeba.com/airfoil/mac/buy.php)
 
+### Snip
+
+评分：⭐️⭐️⭐️⭐️⭐️⭐️
+
+比五星多给一星！公式截图转latex源码的神器，也支持手写识别。截图秒出，实测识别率相当高。
+
+![QQ20190409-130818@2x](https://ws3.sinaimg.cn/large/006tNc79ly1g1x12025ukj30zu0ki0xq.jpg)
+
+有macOS/Windows/Linux三个版本，可以跨平台使用。
+
+不知@ Detexify看到会作何感想😂……
+
+[官网](https://mathpix.com/) [测评](https://mp.weixin.qq.com/s/pf-w-EG5UC0bfnNz5qIHaw)
+
 ## iOS(iPhone&iPad)
 
 ### Timy
