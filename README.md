@@ -614,7 +614,16 @@ windows下的又一神器，再也不用忍受windows文件管理器自带的复
 
 ![image-20180906141338508](https://ws2.sinaimg.cn/large/006tNbRwly1fv0iksx0m9j31go0u8grb.jpg)
 
+### https://romannurik.github.io/SlidesCodeHighlighter/
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+可以对于较短的code block进行高亮。很适合在google slides/powerpoint里面插入代码。
+
+![image-20190501173027748](https://ws3.sinaimg.cn/large/006tNc79ly1g2mo4p3b6hj31ky0u00yi.jpg)
+
 ## Terminal
+
 ### Git History
 
 评分：⭐️⭐️⭐️⭐️⭐️
