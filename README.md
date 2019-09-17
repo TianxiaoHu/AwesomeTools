@@ -514,7 +514,9 @@ Just put all the tabs into one tab and save your RAM.
 
 SessionBox完美地解决了这个问题。它可以基于任何一个页面创建session。每个session都是一个沙箱，相当于一个Incognito实例。
 
-在同一时间，SessionBox可以创建任意多个session。在每个session中跳转的新页面，会位于同一个session里。对于同一网站，可以在不同session中登陆不同的账号。下面是一个例子，不同的session会在tab上有不同颜色的小圆点。
+在同一时间，SessionBox可以创建任意多个session。在每个session中跳转的新页面，会位于同一个session里。对于同一网站，可以在不同session中登陆不同的账号。下面是官网上的一个例子，不同的session会在tab上有不同颜色的小圆点。
+
+![](https://sessionbox.io/assets/homescreen.png)
 
 SessionBox可以免费使用，也可以收费使用。唯一的区别是收费版可以跨设备共享session，据称这个共享技术是patent pending。
 
