@@ -504,6 +504,25 @@ Just put all the tabs into one tab and save your RAM.
 
 ![image-20190228144748797](https://ws1.sinaimg.cn/large/006tKfTcly1g0mwqpef9vj30y40j6t9p.jpg)
 
+### SessionBox
+
+评分：⭐️⭐️⭐️⭐️⭐️
+
+[SessionBox - Free multi login to any website - Google Chrome](https://chrome.google.com/webstore/detail/sessionbox-free-multi-log/megbklhjamjbcafknkgmokldgolkdfig?hl=en)
+
+经常会遇到有多个Google/GitHub/...账号需要登陆的情况。在之前，要么使用多个浏览器，要么使用Chrome的Incognito，非常不方便。
+
+SessionBox完美地解决了这个问题。它可以基于任何一个页面创建session。每个session都是一个沙箱，相当于一个Incognito实例。
+
+在同一时间，SessionBox可以创建任意多个session。在每个session中跳转的新页面，会位于同一个session里。对于同一网站，可以在不同session中登陆不同的账号。下面是官网上的一个例子，不同的session会在tab上有不同颜色的小圆点。
+
+![](https://sessionbox.io/assets/homescreen.png)
+
+SessionBox可以免费使用，也可以收费使用。唯一的区别是收费版可以跨设备共享session，据称这个共享技术是patent pending。
+
+安全性不明。不过似乎Chrome Extension都可以audit，不放心的可以研究下。
+
+
 ## Windows
 
 ### 桌面日历
